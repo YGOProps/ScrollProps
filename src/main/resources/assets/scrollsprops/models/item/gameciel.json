@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/",
+  "textures": {
+    "1": "scrollsprops:blocks/55063751"
+  }
+}

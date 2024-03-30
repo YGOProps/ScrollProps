@@ -1,0 +1,6 @@
+{
+  "parent": "scrollsprops:custom/chaos_disk",
+  "textures": {
+    "1": "scrollsprops:blocks/chaos_disk"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "5",
+    "keyBindingName": "DuelDisk",
+    "keyBindingCategoryKey": "gameplay",
+    "onKeyPressed": {
+      "name": "DueldiskcloseOnKeyPressed"
+    }
+  }
+}

@@ -1160,46 +1160,6 @@
       "path": "~/Cards"
     },
     {
-      "name": "PlayingCards",
-      "type": "tab",
-      "sortid": 162,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "playing_cards",
-      "path": "~/Playing Cards"
-    },
-    {
-      "name": "Card2Clubs",
-      "type": "item",
-      "sortid": 148,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "card_2_clubs",
-      "path": "~/Playing Cards"
-    },
-    {
-      "name": "DeckofCards",
-      "type": "item",
-      "sortid": 149,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "deckof_cards",
-      "path": "~/Playing Cards"
-    },
-    {
-      "name": "Card3clubs",
-      "type": "item",
-      "sortid": 150,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "card_3clubs",
-      "path": "~/Playing Cards"
-    },
-    {
       "name": "ArcanaForce1TheMagician",
       "type": "item",
       "sortid": 97,
@@ -3039,9 +2999,9 @@
   ],
   "language_map": {
     "en_us": {
-      "item.fallenof_albaz.name": "Fallen of Albaz",
-      "item.number_8.name": "Number 8: Heraldic King Genom-Heritage",
       "item.terrifying_toddler_of_torment.name": "Terrifying Toddler Of Torment",
+      "item.number_8.name": "Number 8: Heraldic King Genom-Heritage",
+      "item.fallenof_albaz.name": "Fallen of Albaz",
       "item.mask.name": "Mask",
       "item.number_c_103.name": "Number C103",
       "item.number_48.name": "Number 48: Shadow Lich",
@@ -3051,9 +3011,9 @@
       "item.thunder_dragonduo.name": "Thunder Dragonduo",
       "item.millennium_necklace.name": "Millennium Necklace",
       "item.raviel_lordof_phantasms.name": "Raviel Lord Of Phantasms",
-      "item.n_92.name": "Number 92: Heart-eartH Dragon",
-      "item.ice_dragon.name": "Ice Dragon\u0027s Prison",
       "item.thunder_dragonlord.name": "Thunder Dragonlord",
+      "item.ice_dragon.name": "Ice Dragon\u0027s Prison",
+      "item.n_92.name": "Number 92: Heart-eartH Dragon",
       "item.satellite_warrior.name": "Satellite Warrior",
       "item.red_deck_box.name": "Red Deck Box",
       "item.missus_radiant.name": "Missus Radiant",
@@ -3071,8 +3031,8 @@
       "item.number_32.name": "Number 32: Shark Drake",
       "item.number_19.name": "Number 19: Freezadon",
       "item.number_c_101.name": "Number C101",
-      "item.number_46.name": " Number 46: Dragluon",
       "item.number_2_ninja_shadow_mosquito.name": "Number 2: Ninja Shadow Mosquito",
+      "item.number_46.name": " Number 46: Dragluon",
       "item.change_ofheart.name": "Change Of Heart",
       "item.thunder_dragon_titan.name": "Thunder Dragon Titan",
       "item.gold_sarcophagus.name": "Gold Sarcophagus",
@@ -3091,12 +3051,10 @@
       "item.arcana_force_viii_the_strength.name": "Arcana Force VIII The Strength",
       "item.n_79.name": "Number 79: Battlin\u0027 Boxer Nova Kaiser",
       "item.endymion_the_mastermagician.name": "Endymion, the Master Magician",
-      "item.deckof_cards.name": "Deck of Cards",
       "item.academy_duel_disk_blue.name": "Academy Duel Disk Blue",
       "item.number_22.name": "Number 22: Zombiestein",
       "item.gameciel.name": "Gameciel, the Sea Turtle Kaiju",
       "item.lemon_magician_girl.name": "Lemon Magician Girl",
-      "itemGroup.tabplaying_cards": "Playing Cards",
       "item.light_blue_deck_box.name": "Light Blue Deck Box",
       "item.volofernigesthe_darkest_dragon_doomrider.name": "Voloferniges, the Darkest Dragon Doomrider",
       "item.number_44.name": "Number 44: Sky Pegasus",
@@ -3290,7 +3248,6 @@
       "item.groza_tyrantof_thunder.name": "Groza, Tyrant of Thunder",
       "item.number_24.name": "Number 24",
       "item.crystron_sulfefnir.name": "Crystron Sulfefnir",
-      "item.card_3clubs.name": "3 Clubs",
       "item.number_41.name": "Number 41: Bagooska the Terribly Tired Tapir",
       "item.n_72.name": "Number 72: Shogi Rook",
       "item.number_38.name": "Number 38",
@@ -3299,7 +3256,6 @@
       "item.jizukiruthe_star_destroying_kaiju.name": "Jizukiru, the Star Destroying Kaiju",
       "item.number_43.name": " Number 43: Manipulator of Souls",
       "item.scrap_iron_scarecrow.name": "Scrap-Iron Scarecrow",
-      "item.card_2_clubs.name": "2 Clubs",
       "item.n_67.name": "Number 67: Pair-a-Dice Smasher",
       "item.wretched_ghost_ofthe_attic.name": "Wretched Ghost Of The Attic",
       "item.number_57.name": "Number 57: Tri-Head Dust Dragon",
@@ -3348,10 +3304,6 @@
       },
       {
         "name": "Cards",
-        "children": []
-      },
-      {
-        "name": "Playing Cards",
         "children": []
       },
       {

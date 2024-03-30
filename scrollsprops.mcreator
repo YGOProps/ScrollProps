@@ -2856,56 +2856,6 @@
       "path": "~/Items"
     },
     {
-      "name": "SkullDice",
-      "type": "item",
-      "sortid": 287,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "skull_dice",
-      "path": "~/Cards"
-    },
-    {
-      "name": "ChaosRuler",
-      "type": "item",
-      "sortid": 291,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chaos_ruler",
-      "path": "~/Cards"
-    },
-    {
-      "name": "Magnacarrier",
-      "type": "item",
-      "sortid": 292,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "magnacarrier",
-      "path": "~/Cards"
-    },
-    {
-      "name": "AvatarKirin",
-      "type": "item",
-      "sortid": 289,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "avatar_kirin",
-      "path": "~/Cards"
-    },
-    {
-      "name": "Phospherogalcier",
-      "type": "item",
-      "sortid": 290,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "phospherogalcier",
-      "path": "~/Cards"
-    },
-    {
       "name": "OneForOne",
       "type": "item",
       "sortid": 293,
@@ -3089,9 +3039,9 @@
   ],
   "language_map": {
     "en_us": {
-      "item.terrifying_toddler_of_torment.name": "Terrifying Toddler Of Torment",
-      "item.number_8.name": "Number 8: Heraldic King Genom-Heritage",
       "item.fallenof_albaz.name": "Fallen of Albaz",
+      "item.number_8.name": "Number 8: Heraldic King Genom-Heritage",
+      "item.terrifying_toddler_of_torment.name": "Terrifying Toddler Of Torment",
       "item.mask.name": "Mask",
       "item.number_c_103.name": "Number C103",
       "item.number_48.name": "Number 48: Shadow Lich",
@@ -3101,9 +3051,9 @@
       "item.thunder_dragonduo.name": "Thunder Dragonduo",
       "item.millennium_necklace.name": "Millennium Necklace",
       "item.raviel_lordof_phantasms.name": "Raviel Lord Of Phantasms",
-      "item.thunder_dragonlord.name": "Thunder Dragonlord",
-      "item.ice_dragon.name": "Ice Dragon\u0027s Prison",
       "item.n_92.name": "Number 92: Heart-eartH Dragon",
+      "item.ice_dragon.name": "Ice Dragon\u0027s Prison",
+      "item.thunder_dragonlord.name": "Thunder Dragonlord",
       "item.satellite_warrior.name": "Satellite Warrior",
       "item.red_deck_box.name": "Red Deck Box",
       "item.missus_radiant.name": "Missus Radiant",
@@ -3121,8 +3071,8 @@
       "item.number_32.name": "Number 32: Shark Drake",
       "item.number_19.name": "Number 19: Freezadon",
       "item.number_c_101.name": "Number C101",
-      "item.number_2_ninja_shadow_mosquito.name": "Number 2: Ninja Shadow Mosquito",
       "item.number_46.name": " Number 46: Dragluon",
+      "item.number_2_ninja_shadow_mosquito.name": "Number 2: Ninja Shadow Mosquito",
       "item.change_ofheart.name": "Change Of Heart",
       "item.thunder_dragon_titan.name": "Thunder Dragon Titan",
       "item.gold_sarcophagus.name": "Gold Sarcophagus",

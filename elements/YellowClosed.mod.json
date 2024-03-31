@@ -8,7 +8,7 @@
     "name": "Yellow Closed",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Assets"
     },
     "stackSize": 64,
     "enchantability": 0,

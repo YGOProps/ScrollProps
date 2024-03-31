@@ -9,10 +9,10 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
+import net.mcreator.scrollsprops.creativetab.TabAssets;
 import net.mcreator.scrollsprops.ElementsScrollspropsMod;
 
 @ElementsScrollspropsMod.ModElement.Tag
@@ -39,7 +39,7 @@ public class ItemYellowClosed extends ElementsScrollspropsMod.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("yellow_closed");
 			setRegistryName("yellow_closed");
-			setCreativeTab(CreativeTabs.MISC);
+			setCreativeTab(TabAssets.tab);
 		}
 
 		@Override

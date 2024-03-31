@@ -54,17 +54,6 @@
       "path": "~/Tabs"
     },
     {
-      "name": "DeckBOx",
-      "type": "gui",
-      "sortid": 156,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {
-        "0": 1
-      },
-      "registry_name": "deck_b_ox"
-    },
-    {
       "name": "DeckboxI",
       "type": "item",
       "sortid": 8,
@@ -93,16 +82,6 @@
       "ids": {},
       "registry_name": "cards",
       "path": "~/Tabs"
-    },
-    {
-      "name": "Test",
-      "type": "musicdisc",
-      "sortid": 158,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "test",
-      "path": "~/Items"
     },
     {
       "name": "KiwiMagicianGirl",
@@ -1797,20 +1776,11 @@
     }
   ],
   "variable_elements": [],
-  "sound_elements": [
-    {
-      "name": "catsounds",
-      "files": [
-        "anime-girl-moaning-sounds-_1-minute_-made-with-voicemod"
-      ],
-      "category": "music",
-      "subtitle": ""
-    }
-  ],
+  "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.terrifying_toddler_of_torment.name": "Terrifying Toddler Of Torment",
       "item.fallenof_albaz.name": "Fallen of Albaz",
+      "item.terrifying_toddler_of_torment.name": "Terrifying Toddler Of Torment",
       "item.mask.name": "Mask",
       "item.a_duel_disk.name": "Ac DueldiskClosed",
       "item.pack_1.name": "Pack 1",
@@ -1823,7 +1793,6 @@
       "item.lunalight_black_sheep.name": "Lunalight Black Sheep",
       "item.magi_magi_magician_gal.name": "Magi Magi Magician Gal",
       "item.millennium_necklace.name": "Millennium Necklace",
-      "item.record.test.desc": "DO NOT USE ITS ONLY A TEST",
       "item.raviel_lordof_phantasms.name": "Raviel Lord Of Phantasms",
       "item.thunder_dragonlord.name": "Thunder Dragonlord",
       "item.ice_dragon.name": "Ice Dragon\u0027s Prison",
@@ -1947,7 +1916,6 @@
       "item.the_winged_dragonof_ra_1.name": "The Winged Dragon Of Ra",
       "item.thunder_king_kaiju.name": "Thunder King, the Lightningstrike Kaiju  ",
       "item.shooting_majestic_star_dragon.name": "Shooting Majestic Star Dragon",
-      "item.test.name": "DO NOT USE ITS ONLY A TEST",
       "item.heroic_champion_claivesolish.name": "Heroic Champion - Claivesolish",
       "item.fire_wall_dragon.name": "Fire Wall Dragon",
       "item.red_dragon_archfiend.name": "Red Dragon Archfiend",

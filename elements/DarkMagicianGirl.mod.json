@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 1,
-    "texture": "dark_magician_girl",
+    "texture": "tar",
     "customModelName": "dark_magician_girl:default",
     "name": "Dark Magician Girl",
     "rarity": "COMMON",

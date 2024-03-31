@@ -34,8 +34,6 @@ import net.minecraft.entity.player.EntityPlayerMP;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.block.Block;
 
-import net.mcreator.scrollsprops.gui.GuiDeckBOx;
-
 import java.util.function.Supplier;
 import java.util.Random;
 import java.util.Map;
@@ -56,8 +54,6 @@ public class ElementsScrollspropsMod implements IFuelHandler, IWorldGenerator {
 	public final List<Supplier<Potion>> potions = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ElementsScrollspropsMod() {
-		sounds.put(new ResourceLocation("scrollsprops", "catsounds"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("scrollsprops", "catsounds")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {
@@ -129,15 +125,11 @@ public class ElementsScrollspropsMod implements IFuelHandler, IWorldGenerator {
 	public static class GuiHandler implements IGuiHandler {
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-			if (id == GuiDeckBOx.GUIID)
-				return new GuiDeckBOx.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-			if (id == GuiDeckBOx.GUIID)
-				return new GuiDeckBOx.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}
